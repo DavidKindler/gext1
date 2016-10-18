@@ -1,1 +1,1 @@
-# gext1
+# Google Chrome Extension to view URL parameters

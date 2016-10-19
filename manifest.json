@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "URL Parameter View",
+  "description": "This extension will show URL parameters",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "gext1.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
